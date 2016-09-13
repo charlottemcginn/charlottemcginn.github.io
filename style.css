@@ -23,7 +23,7 @@ h1 {
 	font-weight: 300;
 	letter-spacing: 2px;
 	line-height: 0.5em;
-	margin-bottom:0.3em;
+	margin-bottom:0.4em;
 	margin-top:0.4em;
 }
 
@@ -31,6 +31,7 @@ h2 {
 	font-weight: 100;
 	font-size: 38px;
 	letter-spacing: 1px;
+	margin-top:0;
 }
 
 .jumbotron {
