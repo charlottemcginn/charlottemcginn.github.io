@@ -14,18 +14,19 @@ header {
 	font-family: 'Arial';
 }
 
-h1 {
+h1, h2 {
 	font-family: 'Raleway';
+}
+
+h1 {
 	font-size: 72px;
 	font-weight: 300;
 	letter-spacing: 2px;
 }
 
 h2 {
-	font-family: 'Raleway';
 	font-weight: 100;
 	font-size: 42px;
-	margin-top: 0;
 	letter-spacing: 1px;
 }
 
@@ -38,16 +39,7 @@ h2 {
 	height: 100vh;
 	text-align: center;
 	line-height: 0.4;
-	
 	position: relative;
     padding:0 !important;
     margin-bottom: 0 !important;
 }
-
-@media (max-width: 767px) { 
-	.jumbotron:before {
-		bottom: 100px;
-		left: 20px;
-		right: 20px;
-		top: 20px;		
-	}
