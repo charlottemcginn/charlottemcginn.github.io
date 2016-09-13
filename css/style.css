@@ -1,4 +1,5 @@
 @charset "UTF-8";
+/* CSS Document */
 
 header {
 	background-color: #b16c7f;
@@ -38,13 +39,6 @@ h2 {
 	height: 100vh;
 	text-align: center;
 	position: relative;
-}
-
-.bg-1 { 
-    background-color: #ffffff;
-    color: #555;
-}
-.bg-2 { 
-    background-color: #e58ea7;
-    color: #555;
+    padding:0 !important;
+    margin-bottom: 0 !important;
 }
