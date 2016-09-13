@@ -38,6 +38,8 @@ h2 {
 	height: 100vh;
 	text-align: center;
 	position: relative;
+    padding:0 !important;
+    margin-bottom: 0 !important;
 }
 
 .bg-1 { 
