@@ -21,11 +21,16 @@ h1, h2 {
 h1 {
 	font-size: 72px;
 	font-weight: 300;
+	letter-spacing: 2px;
+	line-height: 0.5em;
+	margin-bottom:0.1em;
+	margin-top:0.4em;
 }
 
 h2 {
 	font-weight: 100;
-	font-size: 42px;
+	font-size: 38px;
+	letter-spacing: 1px;
 }
 
 .jumbotron {
@@ -34,6 +39,7 @@ h2 {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	vertical-align: middle;
 	height: 100vh;
 	text-align: center;
 	position: relative;
