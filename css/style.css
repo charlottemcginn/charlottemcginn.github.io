@@ -1,6 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	margin: 0;
+	padding: 0;
+}
+
 header {
 	background-color: #b16c7f;
 	height: 100vh;
