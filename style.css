@@ -29,7 +29,8 @@ h2 {
 	letter-spacing: 1px;
 }
 
-.header-content {
+.jumbotron {
+	background-color: #b16c7f;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -37,4 +38,8 @@ h2 {
 	height: 100vh;
 	text-align: center;
 	line-height: 0.4;
+	
+	position: relative;
+    padding:0 !important;
+    margin-bottom: 0 !important;
 }
