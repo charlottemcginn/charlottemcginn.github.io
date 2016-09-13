@@ -16,12 +16,17 @@ header {
 
 h1 {
 	font-family: 'Raleway';
-	font-size: 48px;
-	
+	font-size: 72px;
+	font-weight: 600;
+	letter-spacing: 2px;
 }
 
 h2 {
 	font-family: 'Raleway';
+	font-weight: lighter;
+	font-size: 42px;
+	margin-top: 0;
+	letter-spacing: 1px;
 }
 
 .header-content {
@@ -31,6 +36,7 @@ h2 {
 	align-items: center;
 	height: 100vh;
 	text-align: center;
+	line-height: 0.4;
 }
 
 div.container {
