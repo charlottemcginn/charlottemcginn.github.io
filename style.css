@@ -1,4 +1,5 @@
 @charset "UTF-8";
+/* CSS Document */
 
 body {
 	margin: 0;
@@ -45,13 +46,4 @@ h2 {
 	position: relative;
     padding:0 !important;
     margin-bottom: 0 !important;
-}
-
-.bg-1 { 
-    background-color: #ffffff;
-    color: #555;
-}
-.bg-2 { 
-    background-color: #e58ea7;
-    color: #555;
 }
