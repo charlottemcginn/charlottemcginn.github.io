@@ -43,3 +43,11 @@ h2 {
     padding:0 !important;
     margin-bottom: 0 !important;
 }
+
+@media (max-width: 767px) { 
+	.jumbotron:before {
+		bottom: 100px;
+		left: 20px;
+		right: 20px;
+		top: 20px;		
+	}
