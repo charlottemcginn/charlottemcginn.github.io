@@ -38,10 +38,3 @@ h2 {
 	text-align: center;
 	line-height: 0.4;
 }
-
-div.container {
-	max-width: 960px;
-	padding: 10px 0;
-	margin: 0 auto;
-	
-}
