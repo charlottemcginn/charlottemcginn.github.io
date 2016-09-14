@@ -11,11 +11,19 @@ header {
 	height: 100vh;
 	background-size: cover;
 	color: #fff;
-	font-family: 'Arial';
 }
 
-h1, h2 {
-	font-family: 'Raleway';
+footer {
+	
+}
+
+p {
+	font-family: 'Arial';
+	font-size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: 'Raleway', 'Arial';
 }
 
 h1 {
@@ -34,6 +42,13 @@ h2 {
 	margin-top:0.3em;
 }
 
+h3 {
+	font-size: 38px;
+	font-weight: 300;
+	margin-top: 0.2em;
+	margin-bottom: 0.6em;
+}
+
 .jumbotron {
 	background-color: #b16c7f;
 	display: flex;
@@ -46,4 +61,24 @@ h2 {
 	position: relative;
     padding:0 !important;
     margin-bottom: 0 !important;
+}
+
+.bg-1 { 
+    background-color: #fff;
+    color: #555;
+}
+
+.bg-2 { 
+    background-color: #EFB9C9;
+    color: #555;
+}
+
+.bg-3 { 
+    background-color: #b16c7f;
+    color: #ffffff;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
