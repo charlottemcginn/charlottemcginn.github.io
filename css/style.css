@@ -16,6 +16,9 @@ header {
 footer {
 	
 }
+a:hover {
+	text-decoration: none;
+}
 
 p {
 	text-align: left;
