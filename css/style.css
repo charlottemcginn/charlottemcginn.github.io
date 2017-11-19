@@ -22,13 +22,13 @@ a:hover {
 
 p {
 	text-align: left;
-	font-family: 'Arial';
+	font-family: 'Helvetica';
 	font-size: 18px;
 	padding:10px;
 }
 
 h1, h2, h3 {
-	font-family: 'Raleway', 'Arial';
+	font-family: 'Raleway', 'Helvetica';
 }
 
 h1 {
